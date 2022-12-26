@@ -7,7 +7,10 @@ function MakeRouter() {
     <Router>
       <Routes>
         <Route path={`${process.env.PUBLIC_URL}/`} element={<Movie />} />
-        <Route path="/movie/:id" element={<Details />} />
+        <Route
+          path={`${process.env.PUBLIC_URL}/movie/:id`}
+          element={<Details />}
+        />
       </Routes>
     </Router>
   );
