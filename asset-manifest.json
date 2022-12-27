@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ezurno.github.io/movie-project/static/css/main.3d12cff7.css",
-    "main.js": "/ezurno.github.io/movie-project/static/js/main.305e6015.js",
+    "main.js": "/ezurno.github.io/movie-project/static/js/main.55ef0d7e.js",
     "index.html": "/ezurno.github.io/movie-project/index.html",
     "main.3d12cff7.css.map": "/ezurno.github.io/movie-project/static/css/main.3d12cff7.css.map",
-    "main.305e6015.js.map": "/ezurno.github.io/movie-project/static/js/main.305e6015.js.map"
+    "main.55ef0d7e.js.map": "/ezurno.github.io/movie-project/static/js/main.55ef0d7e.js.map"
   },
   "entrypoints": [
     "static/css/main.3d12cff7.css",
-    "static/js/main.305e6015.js"
+    "static/js/main.55ef0d7e.js"
   ]
 }
