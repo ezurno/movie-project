@@ -9,6 +9,7 @@ function MakeRouter() {
         <Route path={`${process.env.PUBLIC_URL}/`} element={<Movie />} />
         <Route
           path={`${process.env.PUBLIC_URL}/movie/:id`}
+          //url check
           element={<Details />}
         />
       </Routes>
